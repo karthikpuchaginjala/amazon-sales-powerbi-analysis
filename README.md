@@ -76,4 +76,13 @@ DAX (Data Analysis Expressions)
 
 Dashboard Design & Storytelling
 
+✅ Conclusion
+
+This project demonstrates my ability to work through the complete Power BI lifecycle — from raw data cleaning to building interactive dashboards and uncovering 
+
+meaningful business insights. By applying Power Query transformations, creating optimized DAX measures, and designing a user-friendly report layout, I delivered a 
+
+dashboard that supports data-driven decision making for e-commerce sales. This project reflects my skills in analytics, visualization, and BI storytelling, and 
+
+serves as a foundation for building more advanced reporting solutions in the future.
 
