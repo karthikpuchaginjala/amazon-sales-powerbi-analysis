@@ -7,6 +7,8 @@ This repository contains my end-to-end Power BI project built using an Amazon-st
 
 📁 Project Contents
 
+Amazon-Sales-Dashboard.pbix – The Power BI dashboard file containing all visualizations, measures, and reports used for the Amazon Sales Analysis.
+
 Dataset.xlsx - The cleaned dataset used to build the dashboard.
 
 Dashboard - Overview.mp4	A short video walkthrough of the Power BI dashboard.
